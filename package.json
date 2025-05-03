@@ -1,8 +1,8 @@
 {
   "name": "paystring.org",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Marketing Website for PayString",
-  "homepage": "https://github.com/paystring/paystring.org#readme",
+  "homepage": "https://github.com/QuadraphoniX-Creative/paystring.org#readme",
   "engines": {
     "node": ">= 12"
   },
@@ -72,10 +72,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xpring-eng/payid.org.git"
+    "url": "git+https://github.com/QQuadraphoniX-Creative/payid.org.git"
   },
   "bugs": {
-    "url": "https://github.com/xpring-eng/payid.org/issues"
+    "url": "https://github.com/QuadraphoniX-Creative/payid.org/issues"
   },
   "prettier": {
     "tabWidth": 2,
