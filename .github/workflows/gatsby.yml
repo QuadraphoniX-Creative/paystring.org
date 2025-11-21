@@ -3,7 +3,9 @@ name: 'Gatsby build only on PR'
 on:
   pull_request:
     types: [opened, edited, synchronize]
-
+permissions:
+  contents: write
+  pull-requests: write
 jobs:
   build:
     name: Build Gatsby Site
