@@ -10,6 +10,6 @@ client:
 trackingPlans:
   # Tracking Plan: PayString Tracking Plan
   # https://app.segment.com/ripplex/protocols/tracking-plans/rs_1ibhNXCFfrXSwj4y7YNiWCRf27l
-  - id: rs_1ibhNXCFfrXSwj4y7YNiWCRf27l
+  - id: 
     workspaceSlug: ripplex
     path: src/utils/typewritter
